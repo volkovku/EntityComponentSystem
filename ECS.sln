@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECS", "ECS\ECS.csproj", "{28D56B24-3AF1-4826-BFA9-C6AD4F345E70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECS.Test", "ECS.Test\ECS.Test.csproj", "{E27C7275-156B-4357-B7A6-02E87F0B343F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECS.SourceFilesGenerator", "ECS.SourceFilesGenerator\ECS.SourceFilesGenerator.csproj", "{E63AD4B8-3D7E-4F95-B4E9-2B05C966AF34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28D56B24-3AF1-4826-BFA9-C6AD4F345E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D56B24-3AF1-4826-BFA9-C6AD4F345E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D56B24-3AF1-4826-BFA9-C6AD4F345E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D56B24-3AF1-4826-BFA9-C6AD4F345E70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E27C7275-156B-4357-B7A6-02E87F0B343F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27C7275-156B-4357-B7A6-02E87F0B343F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27C7275-156B-4357-B7A6-02E87F0B343F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27C7275-156B-4357-B7A6-02E87F0B343F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E63AD4B8-3D7E-4F95-B4E9-2B05C966AF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63AD4B8-3D7E-4F95-B4E9-2B05C966AF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E63AD4B8-3D7E-4F95-B4E9-2B05C966AF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63AD4B8-3D7E-4F95-B4E9-2B05C966AF34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
